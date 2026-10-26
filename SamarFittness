@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SamarFittness</title>
-    <!-- Link external CSS styles here -->
-    <link rel="stylesheet" href="style.css">
+    
 </head>
 <body>
 <header class="text-gray-600 body-font">
@@ -29,10 +28,6 @@
     </button>
   </div>
 </header>
-    <!-- Visible content goes here -->
-    <h1>Hello, World!</h1>
-
-    <!-- Link external JavaScript files just before the closing body tag -->
-    <script src="script.js"></script>
+    
 </body>
 </html>
